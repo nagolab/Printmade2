@@ -11,7 +11,7 @@
  *
  * 
  *
- * Support : Windows - XP, Vista, 7, 8, 8.1, 10
+ * 			 Support : Windows - XP, Vista, 7, 8, 8.1, 10
  *	 				   (IE, Chrome, Firefox, Safari, Opera), 
  *			 Mac OS X - Yosemitte, Lion 
  *					   (Safari, Chrome, Firefox),
