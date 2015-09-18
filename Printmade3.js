@@ -28,7 +28,8 @@
 
 // 라이센스 코드
 var LICENSE_CODE = ''; // 수정필요
-var SERVER_PATH = location.protocol + '//' + location.hostname + '/sw/printmade'; // 수정필요
+var SERVER_PATH = location.protocol + ''; // 수정필요
+//var SERVER_PATH = location.protocol + '//' + location.hostname + '/sw/printmade'; // 수정필요
 /*
 
 웹서버에 프린트메이드가 설치된 경로를 설정해주세요.
