@@ -74,7 +74,7 @@ var ORIENTATION = 'portrait'; // portrait, landscape
 var PAGEALIGNMENT = 'left';
 // Viewer 버전 - 업데이트를 할 때 버전을 올려주어야 한다.
 //내부 개발자용 모드
-var DEVELOPMENT_MODE = 1;
+var DEVELOPMENT_MODE = 0;
 //Mac, Linux용 설정값
 var GPrintmade_MainFrame = null; 
 var GPrintmade_NonCrossTop = '';
