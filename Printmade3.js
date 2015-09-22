@@ -39,7 +39,7 @@ var SERVER_PATH = "https://www.nagosoft.com/sw/printmade/";
 
 */
 
-var SCRIPTURL = "";
+var SCRIPTURL = "http://nagosoft.com";
 var VIEWER_VERSION = '3.0.0.0';
 
 
