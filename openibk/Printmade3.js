@@ -1722,7 +1722,7 @@ function PTM_DownloadDialog() {
 
 	if (GPrintmade.isWindows == true) {
 		download_url = WIN_DOWNLOAD_URL;
-		$down_div.append('<a href = "' + download_url + '" id = "ptm_download" ><img alt = "다운로드" src = "' + INSTALL_IMG_URL + 'download.jpg" style = "border:0"></a>');			
+		$down_div.append('<a href = "' + download_url + '" id = "ptm_download" ><img alt = "다운로드" src = "' + INSTALL_IMG_URL + 'download.jpg" style = "border:0"></a>'); // 2015-09-22 버튼 대기
 	} else if (GPrintmade.isMac == true) {
 		download_url = MAC_DOWNLOAD_URL;
 		var msg = '';
